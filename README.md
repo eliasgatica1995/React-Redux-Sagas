@@ -8,5 +8,5 @@ Para ejecutar la aplicacion utilizar el comando:
 Abrir [http://localhost:3000](http://localhost:3000) en el navegador.
 
 Para poder ver el contenido de la base de datos, abrir:\
-[http://localhost:3005/entries](http://localhost:3005/entries)
+[http://localhost:3005/entries](http://localhost:3005/entries)\
 [http://localhost:3005/values](http://localhost:3005/values)
