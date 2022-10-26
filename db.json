@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "description": "Work Income redux"
+    },
+    {
+      "id": 2,
+      "description": "Water Bill redux"
+    },
+    {
+      "id": 3,
+      "description": "Rent"
+    },
+    {
+      "id": 4,
+      "description": "Power Bill"
+    },
+    {
+      "id": "32f2723f-6835-479c-9763-54f4f48a7d25",
+      "description": "test"
+    }
+  ],
+  "values": [
+    {
+      "id": 1,
+      "value": 1000,
+      "isExpense": false
+    },
+    {
+      "id": 2,
+      "value": 20,
+      "isExpense": true
+    },
+    {
+      "id": 3,
+      "value": 300,
+      "isExpense": true
+    },
+    {
+      "id": 4,
+      "value": 50,
+      "isExpense": true
+    },
+    {
+      "id": "32f2723f-6835-479c-9763-54f4f48a7d25",
+      "isExpense": true,
+      "value": "344"
+    }
+  ]
+}
